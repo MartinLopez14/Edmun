@@ -1,0 +1,6 @@
+projectKey=team-700-client
+serverUrl=https://csse-s302g7.canterbury.ac.nz/sonarqube
+serverVersion=8.1.0.31237
+dashboardUrl=https://csse-s302g7.canterbury.ac.nz/sonarqube/dashboard?id=team-700-client
+ceTaskId=AXJTEuhlkZWWfD69gYK-
+ceTaskUrl=https://csse-s302g7.canterbury.ac.nz/sonarqube/api/ce/task?id=AXJTEuhlkZWWfD69gYK-
